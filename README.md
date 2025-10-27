@@ -43,7 +43,7 @@ You’ll also need:
 
 1. Clone or copy the script:
    ```bash
-   git clone https://github.com/<your-username>/battery-health-checker.git
+   git clone https://github.com/EDGARDEVEN/kali-battery-health-checker.git
    cd battery-health-checker
    ```
 
