@@ -1,0 +1,13 @@
+Source: battery-health-checker
+Section: utils
+Priority: optional
+Maintainer: Deven Cybersecurity Services <edgardeven303@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://github.com/EDGARDEVEN/kali-battery-health-checker
+
+Package: battery-health-checker
+Architecture: all
+Depends: bash, dmidecode, upower
+Description: Simple battery health monitor script.
+ Displays battery health, charge level, voltage, and status using upower and dmidecode.
